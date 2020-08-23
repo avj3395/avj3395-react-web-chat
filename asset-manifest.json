@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/avj3395-react-web-chat/static/css/main.a97450fb.chunk.css",
+    "main.js": "/avj3395-react-web-chat/static/js/main.c95925b1.chunk.js",
+    "main.js.map": "/avj3395-react-web-chat/static/js/main.c95925b1.chunk.js.map",
+    "runtime-main.js": "/avj3395-react-web-chat/static/js/runtime-main.a480efb6.js",
+    "runtime-main.js.map": "/avj3395-react-web-chat/static/js/runtime-main.a480efb6.js.map",
+    "static/js/2.439f5caa.chunk.js": "/avj3395-react-web-chat/static/js/2.439f5caa.chunk.js",
+    "static/js/2.439f5caa.chunk.js.map": "/avj3395-react-web-chat/static/js/2.439f5caa.chunk.js.map",
+    "index.html": "/avj3395-react-web-chat/index.html",
+    "precache-manifest.e4aea3174a46aa28c013ddd306ade880.js": "/avj3395-react-web-chat/precache-manifest.e4aea3174a46aa28c013ddd306ade880.js",
+    "service-worker.js": "/avj3395-react-web-chat/service-worker.js",
+    "static/css/main.a97450fb.chunk.css.map": "/avj3395-react-web-chat/static/css/main.a97450fb.chunk.css.map",
+    "static/js/2.439f5caa.chunk.js.LICENSE.txt": "/avj3395-react-web-chat/static/js/2.439f5caa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a480efb6.js",
+    "static/js/2.439f5caa.chunk.js",
+    "static/css/main.a97450fb.chunk.css",
+    "static/js/main.c95925b1.chunk.js"
+  ]
+}
